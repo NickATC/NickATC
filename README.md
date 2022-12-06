@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Nick</h1>
-<h3 align="center">A Python and iOS developer</h3>
+<h3 align="center">Python and iOS developer</h3>
 
 - 🔭 I’m currently working on **a database project with iOS**
 
