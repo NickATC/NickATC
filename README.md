@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Nick</h1>
 <h3 align="center">Python and iOS developer</h3>
 
-- 🔭 I’m currently working on **a database project with iOS**
+- 🔭 I’m currently working on **improving my iOS/Swift/SWiftUI skills**
 
 - 🌱 I’m currently learning **more SwiftUI and Swift... will I ever end learning??**
 
