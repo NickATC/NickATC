@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **python or iOS projects. Don´t hesitate to contact me if you think I can help!**
 
-- 💬 Ask me about **Python:  Python, databases, GUI design.  **
+- 💬 Ask me about **Python:  Python, databases, GUI design (TKinter).  **
 
 - 💬 Ask me about **Swift:  Swift in general.    **
 
