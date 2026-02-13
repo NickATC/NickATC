@@ -1,15 +1,12 @@
 <h1 align="center">Hi there👋, I'm Nick</h1>
-<h3 align="center">Python and iOS developer</h3>
+<h3 align="center">Junior Developer</h3>
 
-- 🔭 I’m currently working on **improving my iOS/Swift/SWiftUI skills**
+- 🔭 I’m currently working on **improving my Java skills**
 
-- 🌱 I’m currently learning **more SwiftUI and Swift... will I ever end learning??**
+- 🌱 I’m currently learning to **solve problems for my clients using Java and Python**
 
-- 👯 I’m looking to collaborate on **python or iOS projects. Don´t hesitate to contact me if you think I can help!**
+- 💬 Ask me about **Java and Python:  databases, GUI design (desktop apps)**
 
-- 💬 Ask me about **Python:  Python, databases, GUI design (TKinter).  **
-
-- 💬 Ask me about **Swift:  Swift in general.    **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
